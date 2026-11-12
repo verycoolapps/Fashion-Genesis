@@ -411,7 +411,7 @@ cp -r Fashion-Genesis-X ~/.config/skills/        # runtime lain
 
 ## 🔗 Links & License
 
-**Repository:** `[YOUR_REPO_URL]` — *ganti dengan URL repo Anda*
+**Repository:** [github.com/verycoolapps/Fashion-Genesis](https://github.com/verycoolapps/Fashion-Genesis)
 
 **License:** MIT — bebas dipakai, dimodifikasi, didistribusikan.
 
